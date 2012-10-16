@@ -1,0 +1,2 @@
+Datatype wrapping URI that has not been fully resolved yet (such as
+a route in a webapp without the application root).
